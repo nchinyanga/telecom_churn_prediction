@@ -45,7 +45,7 @@ Cross-checked with two independent feature-importance methods (mutual informatio
 
 ## From Model to Strategy
 
-The full [business proposal](docs/Churn_Retention_Business_Proposal.docx) translates these findings into a driver-matched retention playbook, for example:
+The full [business proposal](docs/Churn_Retention_Business_Proposal.pdf) translates these findings into a driver-matched retention playbook, for example:
 
 - **Aging equipment**  automated upgrade offers triggered at 2 years, before risk peaks
 - **Declining usage**  early re-engagement bundles for customers trending down
@@ -55,7 +55,7 @@ The full [business proposal](docs/Churn_Retention_Business_Proposal.docx) transl
 
 It also includes a phased rollout plan (deploy → integrate → pilot → measure & scale) and a revenue-protected estimate across a range of campaign success rates.
 
-📄 **[Read the full business proposal ](docs/Churn_Retention_Business_Proposal.docx)**
+📄 **[Read the full business proposal ](docs/Churn_Retention_Business_Proposal.pdf)**
 📓 **[Explore the full analysis notebook ](notebooks/Telecom_churn_prediction.ipynb)**
 
 ## Repository Structure
